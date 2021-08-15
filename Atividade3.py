@@ -1,5 +1,6 @@
 """
-Lissandra possui 2 avaliações no semestre: a P1 e a P2, e precisa saber se está ou não aprovada depois de realizar as suas provas. Lissandra precisa ter média igual ou maior do que 5 para ser considerada aprovada.
+Lissandra possui 2 avaliações no semestre: a P1 e a P2, e precisa saber se está ou não aprovada depois de realizar as suas provas.
+Lissandra precisa ter média igual ou maior do que 5 para ser considerada aprovada.
 
 Faça um programa em Python que leia as notas P1 e P2 de Lissandra e calcule a sua média utilizando a fórmula (P1 * 40% + P2 * 60%), e que atenda aos seguintes critérios:
 
