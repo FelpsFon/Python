@@ -40,7 +40,7 @@ def Reset():
 if mediaFinal >= 5:
     print(f"\nParabéns, {nome}! Você passou com uma média final de: {round(mediaFinal, 2)}")
 
-#mudança teste
+#saída caso reprovado
 else:
     calcP3()
 
