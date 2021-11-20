@@ -20,7 +20,7 @@ soma = n1 + n2 + n3
 divisao = soma / 3
 
 #saída
-print(f"\n{nome}, a média dos números {n1}, {n2} e {n3} é de: {divisao}")
+print(f"\n{nome}, a média dos números {n1}, {n2} e {n3} é de: {round(divisao, 2)}")
 input('Aperte qualquer tecla para fechar...')
 
 #Código por: Felipe Louzada Guedes Carneiro da Fontoura - Matrícula: 2112130011
